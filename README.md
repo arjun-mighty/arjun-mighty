@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @arjun
+- 👋 Hi, I’m Arjun
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...with new people to learn to new skills
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...with new people to learn to new skills.
 
 <!---
 arjun-mighty/arjun-mighty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
