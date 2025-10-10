@@ -54,21 +54,12 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
   • CI/CD: GitHub Actions handles the entire pipeline.  
   • Load Balancing: AWS ELB distributes traffic across instances.
 
----
-
-## 📊 GitHub Stats
-
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-mighty&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-mighty&layout=compact&theme=radical)](https://github.com/arjun-mighty)
-
----
 
 ## 📫 Get in Touch
 
 - GitHub: [@arjun-mighty](https://github.com/arjun-mighty)  
-- Email: your-email@example.com  
-- LinkedIn: [your LinkedIn URL](https://linkedin.com)  
-- Twitter / Dev.to / etc: (if you like)
+- Email: arjjun.aj2002@gmail.com  
+- LinkedIn: [your LinkedIn URL]([https://linkedin.com](https://www.linkedin.com/in/arjun-budda/))  
 
 ---
 
