@@ -59,7 +59,7 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
 
 - GitHub: [@arjun-mighty](https://github.com/arjun-mighty)  
 - Email: arjun.aj2002@gmail.com  
-- LinkedIn: [your LinkedIn URL]([https://linkedin.com](https://www.linkedin.com/in/arjun-budda/))  
+- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/arjun-budda/])  
 
 ---
 
