@@ -16,7 +16,7 @@ Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bas
 I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of **Linux ** and networking concepts like **TCP/IP, DNS, and VPNs**.
 
 **💼 Experience:**
-- ** GainHub - Cloud & Devops Engineer(Sep 2025 - Present)
+- **GainHub - Cloud & Devops Engineer(Sep 2025 - Present)
 - **Reliance Jio – DevOps Engineer Intern** (Sep 2024 - Nov 2024 )  
 - **Coromandel International Limited – IT Networking Intern** (Feb 2023 - July 2023)
 
