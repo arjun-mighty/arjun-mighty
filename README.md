@@ -5,10 +5,6 @@
 
 # Hi , I'm Arjun 
 
-[![GitHub followers](https://img.shields.io/github/followers/arjun-mighty?label=Follow&style=social)](https://github.com/arjun-mighty)  
-[![GitHub stars](https://img.shields.io/github/stars/arjun-mighty?style=social)](https://github.com/arjun-mighty?tab=stars)  
-[![GitHub repo count](https://img.shields.io/github/repo-count/arjun-mighty?style=social)](https://github.com/arjun-mighty?tab=repositories)  
-
 ---
 
 ## 🔭 About Me
@@ -42,11 +38,13 @@ Here are some of the technologies I’ve worked with:
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 Here are a few repositories I’m proud of:
 
-| Project | Description |
+| System Monitoring Application|  Developed a Docker-powered system monitoring app using Flask Redis, enabling real-time metric visualization,which
+shows Realtime memory, CPU, Disk utilization.
+• Optimized containerization workflows, Docker Build Cloud, TestContainers, and security scanning Docker Scout. |
 |---|---|
 | **[arjun-mighty.github.io](https://github.com/arjun-mighty/arjun-mighty.github.io)** | My personal site / portfolio |
 | **[flipzon](https://github.com/arjun-mighty/flipzon)** | E-commerce clone project |
