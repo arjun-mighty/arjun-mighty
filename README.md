@@ -3,7 +3,7 @@
  Put your profile README here and it will show up on your GitHub profile.
 -->
 
-# Hi there 👋, I'm Arjun B
+# Hi , I'm Arjun 
 
 [![GitHub followers](https://img.shields.io/github/followers/arjun-mighty?label=Follow&style=social)](https://github.com/arjun-mighty)  
 [![GitHub stars](https://img.shields.io/github/stars/arjun-mighty?style=social)](https://github.com/arjun-mighty?tab=stars)  
@@ -13,10 +13,17 @@
 
 ## 🔭 About Me
 
-- I’m **Arjun B**, a passionate developer from Andhra Pradesh, India.  
-- I love building tools, solving algorithmic challenges, and learning new technologies.  
-- Currently exploring **[your current tech / project focus — e.g. full-stack, ML, etc.]**.  
-- I believe in clean, maintainable code and collaborating on open source.
+I’m Arjun, a DevOps Engineer at Gainhub and an MCA (Cloud Computing, Class of 2025) graduate.
+
+Skilled in Git, GitHub, Linux, Docker, GitHub Actions, AWS, Python, Bash, Terraform, and CI/CD automation.
+
+I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux internals and networking concepts like TCP/IP, DNS, and VPNs.
+
+Past Experience:
+
+Reliance Jio – DevOps Engineer Intern (Infrastructure automation & containerization)
+
+Coromandel International Limited – IT Networking Intern (Network configuration & system administration)
 
 ---
 
