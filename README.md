@@ -3,61 +3,62 @@
  Put your profile README here and it will show up on your GitHub profile.
 -->
 
-# Hi , I'm Arjun 
+# 👋 Hi, I'm Arjun 
 
 ---
 
 ## 🔭 About Me
 
-I’m Arjun, a DevOps Engineer at Gainhub and an MCA (Cloud Computing, Class of 2025) graduate.
+I’m **Arjun**, a **DevOps Engineer at Gainhub** and an **MCA (Cloud Computing, Class of 2025)** graduate.
 
-Skilled in Git, GitHub, Linux, Docker, GitHub Actions, AWS, Python, Bash, Terraform, and CI/CD automation.
+Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Python, Bash, Terraform**, and **CI/CD automation**.  
 
-I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux internals and networking concepts like TCP/IP, DNS, and VPNs.
+I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of **Linux internals** and networking concepts like **TCP/IP, DNS, and VPNs**.
 
-Past Experience:
+**💼 Past Experience:**
 
-Reliance Jio – DevOps Engineer Intern (Infrastructure automation & containerization)
-
-Coromandel International Limited – IT Networking Intern (Network configuration & system administration)
+- **Reliance Jio – DevOps Engineer Intern** (Infrastructure automation & containerization)  
+- **Coromandel International Limited – IT Networking Intern** (Network configuration & system administration)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-Here are some of the technologies I’ve worked with:
+**Languages & Scripting:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
 
-| Domain | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, React (or whatever you use) |
-| Backend / Server | Node.js, Express, Python, Django (or your backend stack) |
-| Data / Algorithms | DSA (Data Structures & Algorithms), problem solving |
-| DevOps / Tools | Git, GitHub, Docker, Linux, CI/CD |
+**DevOps & Cloud:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
 
-*(You can turn the above into logos / badges if you like)*
+**Version Control & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
 ---
 
-## Projects
+## 🚀 Projects
 
-Here are a few repositories I’m proud of:
+- [**System Monitoring Application**](https://github.com/arjun-mighty/System_Monitoring_Docker-project)  
+  Developed a Docker-powered system monitoring app using Flask and Redis, enabling real-time metric visualization showing memory, CPU, and disk utilization.  
+  • Optimized containerization workflows, Docker Build Cloud, TestContainers, and security scanning using Docker Scout.
 
-| System Monitoring Application|  Developed a Docker-powered system monitoring app using Flask Redis, enabling real-time metric visualization,which
-shows Realtime memory, CPU, Disk utilization.
-• Optimized containerization workflows, Docker Build Cloud, TestContainers, and security scanning Docker Scout. |
-|---|---|
-| **[arjun-mighty.github.io](https://github.com/arjun-mighty/arjun-mighty.github.io)** | My personal site / portfolio |
-| **[flipzon](https://github.com/arjun-mighty/flipzon)** | E-commerce clone project |
-| **[DSA_Challenge](https://github.com/arjun-mighty/DSA_Challenge)** | Solving data structures & algorithm problems in Java |
-| **[MailDust](https://github.com/arjun-mighty/MailDust)** | Automating cleanup of unwanted emails |
-
-*(Add more or change this list as per your favorites)*
+- [**Automated Application Deployment (Java)**](https://github.com/arjun-mighty/dockerized-java-app-aws-cicd)  
+  Implements an automated deployment pipeline for a Java application using GitHub Actions, Docker, and AWS infrastructure.  
+  • Automated JAR Detection: Finds the latest JAR file automatically.  
+  • Containerized Deployment: Uses Docker for consistent environments.  
+  • CI/CD: GitHub Actions handles the entire pipeline.  
+  • Load Balancing: AWS ELB distributes traffic across instances.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Arjun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-mighty&show_icons=true&theme=radical)  
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-mighty&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-mighty&layout=compact&theme=radical)](https://github.com/arjun-mighty)
 
 ---
@@ -66,27 +67,10 @@ shows Realtime memory, CPU, Disk utilization.
 
 - GitHub: [@arjun-mighty](https://github.com/arjun-mighty)  
 - Email: your-email@example.com  
-- LinkedIn: [your LinkedIn URL]  
+- LinkedIn: [your LinkedIn URL](https://linkedin.com)  
 - Twitter / Dev.to / etc: (if you like)
 
 ---
 
-## ⚡ Fun Facts
 
-- I love solving coding challenges, reading tech blogs, and playing with new languages.  
-- I’m always up for collaborating on open-source — feel free to reach out!  
-- Motto: *“Code clean. Code simple. Code with purpose.”*
-
----
-
-### 💡 Tips for further improvement
-
-- Replace text skill lists with **icons / logos** (via shields.io or `<img>` badges)  
-- Add a “Recent Blog Posts” or “Recent Activity” section (if you blog)  
-- Use animated SVGs or GIFs to make it more lively (sparingly)  
-- Keep the “Featured Projects” section curated — only your best work  
-- Update periodically to show new accomplishments  
-
----
-
-If you like, I can also generate a **README for a specific project repo** (e.g. flipzon or MailDust) tailored to its tech stack and features. Do you want me to generate one for one of your projects now?
+*“Code clean. Automate smart. Deploy fast.”* 🚀
