@@ -11,14 +11,14 @@
 
 I’m **Arjun**, a **DevOps Engineer at Gainhub** and an **MCA (Cloud Computing, Class of 2025)** graduate.
 
-Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Python, Bash, Terraform**, and **CI/CD automation**.  
+Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bash, Terraform**, and **CI/CD automation**.  
 
-I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of **Linux internals** and networking concepts like **TCP/IP, DNS, and VPNs**.
+I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of **Linux ** and networking concepts like **TCP/IP, DNS, and VPNs**.
 
-**💼 Past Experience:**
-
-- **Reliance Jio – DevOps Engineer Intern** (Infrastructure automation & containerization)  
-- **Coromandel International Limited – IT Networking Intern** (Network configuration & system administration)
+**💼 Experience:**
+- ** GainHub - Cloud & Devops Engineer(Sep 2025 - Present)
+- **Reliance Jio – DevOps Engineer Intern** (Sep 2024 - Nov 2024 )  
+- **Coromandel International Limited – IT Networking Intern** (Feb 2023 - July 2023)
 
 ---
 
@@ -58,7 +58,7 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
 ## 📫 Get in Touch
 
 - GitHub: [@arjun-mighty](https://github.com/arjun-mighty)  
-- Email: arjjun.aj2002@gmail.com  
+- Email: arjun.aj2002@gmail.com  
 - LinkedIn: [your LinkedIn URL]([https://linkedin.com](https://www.linkedin.com/in/arjun-budda/))  
 
 ---
