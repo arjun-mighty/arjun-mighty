@@ -17,6 +17,7 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
 
 **💼 Experience:**
 - GainHub - Cloud & Devops Engineer(Sep 2025 - Present)
+- Acciojob - Software Development Trainee Intern (Nov 2024 - Apr 2025)
 - **Reliance Jio – DevOps Engineer Intern** (Sep 2024 - Nov 2024 )  
 - **Coromandel International Limited – IT Networking Intern** (Feb 2023 - July 2023)
 
