@@ -9,7 +9,7 @@
 
 ## 🔭 About Me
 
-I’m **Arjun**, a **DevOps Engineer at Gainhub** and an **MCA (Cloud Computing, Class of 2025)** graduate.
+I’m **Arjun**, a **DevOps Engineer at Gainhub** and an **MCA (Cloud Computing )** graduate.
 
 Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bash, Terraform**, and **CI/CD automation**.  
 
