@@ -16,7 +16,7 @@ Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bas
 I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux and networking concepts like **TCP/IP, DNS, and VPNs**.
 
 ### 💼 Experience:
-### GainHub – Cloud & DevOps Engineer *(Sep 2025 – Present)
+### GainHub – Cloud & DevOps Engineer (Sep 2025 – Present)
 - Automated repetitive deployment and infrastructure tasks using **Python** and **Azure CLI**, improving operational efficiency.  
 - Collaborated with **Development**, **QA**, and **Operations** teams to optimize **CI/CD pipelines** using **Azure DevOps** and **GitHub Actions**; performed **VM upgrades**, troubleshooting, and release improvements.  
 - Partnered with **development** and **client** teams to set up secure **VPN tunneling**, configure **VNets**, and establish reliable network connectivity while resolving client challenges and technical queries.  
