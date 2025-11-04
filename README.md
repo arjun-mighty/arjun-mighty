@@ -16,14 +16,17 @@ Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bas
 I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux and networking concepts like **TCP/IP, DNS, and VPNs**.
 
 **💼 Experience:**
-### 💼 GainHub – Cloud & DevOps Engineer *(Sep 2025 – Present)*
+### GainHub – Cloud & DevOps Engineer *(Sep 2025 – Present)*
 - Automated repetitive deployment and infrastructure tasks using **Python** and **Azure CLI**, improving operational efficiency.  
 - Collaborated with **Development**, **QA**, and **Operations** teams to optimize **CI/CD pipelines** using **Azure DevOps** and **GitHub Actions**; performed **VM upgrades**, troubleshooting, and release improvements.  
 - Partnered with **development** and **client** teams to set up secure **VPN tunneling**, configure **VNets**, and establish reliable network connectivity while resolving client challenges and technical queries.  
 
-- Acciojob - Software Development Trainee Intern (Nov 2024 - Apr 2025)
-- **Reliance Jio – DevOps Engineer Intern** (Sep 2024 - Nov 2024 )  
-- **Coromandel International Limited – IT Networking Intern** (Feb 2023 - July 2023)
+###  Acciojob - Software Development Trainee Intern (Nov 2024 - Apr 2025)*
+- Python Development using FastAPI and SQLite/MySQL, with practical exposure to building RESTful APIs.
+- Developed projects including a Student management system , applying backend principles, CRUD operations, and API testing using Swagger and POSTMAN API .
+### Reliance Jio – DevOps Engineer Intern** (Sep 2024 - Nov 2024 )*  
+- Worked extensively on Linux servers, managing user permissions, automating tasks with shell scripts, and troubleshooting environment-level issues.
+### Coromandel International Limited – IT Networking Intern** (Feb 2023 - July 2023)*
 
 ---
 ## 🛠️ Skills & Tools
