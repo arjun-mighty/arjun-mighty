@@ -17,6 +17,11 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
 
 **💼 Experience:**
 - GainHub - Cloud & Devops Engineer(Sep 2025 - Present)
+- Automated repetitive deployment and infrastructure tasks using Python and Azure CLI,, improving efficiency .
+• Collaborated with Development, QA, and Operations teams to optimize CI/CD pipelines (Azure DevOps &
+GitHub Actions), performed VM upgrades, troubleshoot issues, and improve overall release efficiency.
+• Collaborated with development and client teams to set up secure VPN tunneling, configure VNets, and establish reliable
+connections while resolving client challenges and technical queries.
 - Acciojob - Software Development Trainee Intern (Nov 2024 - Apr 2025)
 - **Reliance Jio – DevOps Engineer Intern** (Sep 2024 - Nov 2024 )  
 - **Coromandel International Limited – IT Networking Intern** (Feb 2023 - July 2023)
