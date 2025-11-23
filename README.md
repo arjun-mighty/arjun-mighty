@@ -63,6 +63,13 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
   • CI/CD: GitHub Actions handles the entire pipeline.  
   • Load Balancing: AWS ELB distributes traffic across instances.
 
+- [**MeetingRoom_BookingSystem**](https://github.com/arjun-mighty/MeetingRoom_BookingSystem)  
+  A backend application for a small office to manage meeting room bookings, built with FastAPI and fastapi-users for robust authentication, and packaged for easy deployment with Docker.
+  • Developed a Meeting Room Booking System to streamline reservation and scheduling of meeting rooms within an organization..
+  • Implemented user authentication and role-based access to securely manage bookings and restrict unauthorized usage.
+  • Created backend logic for handling overlapping bookings, cancellations, and real-time availability updates.
+    
+
 
 ## 📫 Get in Touch
 
