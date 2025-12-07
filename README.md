@@ -9,9 +9,9 @@
 
 ## 🔭 About Me
 
-I’m **Arjun**, a **DevOps Engineer at Gainhub** and an **MCA (Cloud Computing )** graduate.
+I’m **Arjun**, a **Software Engineer at Toluai** .
 
-Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bash, Terraform**, and **CI/CD automation**.  
+Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bash, AI,FastAPI ,Terraform** and **CI/CD automation**.  
 
 I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux and networking concepts like **TCP/IP, DNS, and VPNs**.
 
