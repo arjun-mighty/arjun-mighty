@@ -16,6 +16,8 @@ Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bas
 I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux and networking concepts like **TCP/IP, DNS, and VPNs**.
 
 ### 💼 Experience:
+### ToluAi – Software Engineer (Sep 2025 – Present)
+
 ### GainHub – Cloud & DevOps Engineer (Sep 2025 – Dec 2025)
 - Automated repetitive deployment and infrastructure tasks using **Python** and **Azure CLI**, improving operational efficiency.  
 - Collaborated with **Development**, **QA**, and **Operations** teams to optimize **CI/CD pipelines** using **Azure DevOps** and **GitHub Actions**; performed **VM upgrades**, troubleshooting, and release improvements.  
