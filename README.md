@@ -9,14 +9,14 @@
 
 ## 🔭 About Me
 
-I’m **Arjun**, a **Software Engineer at Toluai** .
+I’m **Arjun**, a **Software Engineer ** .
 
-Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bash, AI,FastAPI ,Terraform** and **CI/CD automation**.  
+Skilled in **Git, GitHub, Linux, Docker, GitHub Actions, AWS, Azure, Python, Bash, AI,FastAPI ,Terraform** and **CI/CD automation,Javascript**.  
 
 I’m passionate about cloud infrastructure, container orchestration, and automation pipelines, with a strong understanding of Linux and networking concepts like **TCP/IP, DNS, and VPNs**.
 
 ### 💼 Experience:
-### ToluAi – Software Engineer (Dec 2025 – Present)
+
 
 ### GainHub – Cloud & DevOps Engineer (Sep 2025 – Dec 2025)
 - Automated repetitive deployment and infrastructure tasks using **Python** and **Azure CLI**, improving operational efficiency.  
@@ -78,7 +78,7 @@ I’m passionate about cloud infrastructure, container orchestration, and automa
 
 - GitHub: [@arjun-mighty](https://github.com/arjun-mighty)  
 - Email: arjun.aj2002@gmail.com  
-- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/arjun-budda/])  
+
 
 ---
 
